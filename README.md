@@ -1,6 +1,8 @@
 # Recurrent Neural Networks Intro
 Resources, utils and test code for Recurrent Neural Networks (RNN).
 
+[Corresponding article](https://towardsdatascience.com/personality-for-your-chatbot-with-recurrent-neural-networks-2038f7f34636)
+
 ## Text Generation
 Current main focus and coverage for this repository is around text-generation.
 
